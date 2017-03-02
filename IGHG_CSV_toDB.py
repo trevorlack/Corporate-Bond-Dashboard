@@ -11,8 +11,8 @@ os.chdir("S:\Trevor\MySQL Data\IG Index\DB Loader\Ready for DB")
 try:
     db = MySQLdb.connect(
         host='localhost',
-        user='tlack',
-        passwd='Porsche911!',
+        user='******',
+        passwd='******',
         db='bens_desk'
     )
 
